@@ -151,7 +151,7 @@ project/
     npm run dev
     ```
 
-    The backend will run on [http://localhost:5000](http://localhost:5000).
+   
 
 ### Frontend
 
@@ -161,12 +161,5 @@ project/
     npm run dev
     ```
 
-    The frontend will run on [http://localhost:5173](http://localhost:5173).
+   
 
-## 📬 Contact
-
-For any questions or issues, please contact [saimihirnath.nayakanti1@gmail.com](saimihirnath.nayakanti1@gmail.com).
-
-```plaintext
-Feel free to customize any sections or details to better fit your project or preferences!
-```
